@@ -30,5 +30,6 @@ cloud-tool login
 ```
 
 * Change the credentials of defualt with the credentials stored on the profile by the cloud login tool present in the users>611XXX>.aws>credentials folder
-![cloud-tool credentials](./images/cloud-tool-login.jpg)
+
+![cloud-tool-login](https://user-images.githubusercontent.com/101724244/200761864-eb2a7f04-7709-43ff-b110-9d59faae26b8.PNG)
 
