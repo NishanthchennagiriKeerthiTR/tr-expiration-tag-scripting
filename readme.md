@@ -1,4 +1,4 @@
-# TR:EXPIRATION Tag Scripting
+# TR:Expiration Tag Scripting
 
 tr:expiration tag added to missing resources
 
