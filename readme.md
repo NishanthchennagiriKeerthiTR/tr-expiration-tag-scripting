@@ -51,6 +51,7 @@ python trexpire.py
 * The script checks the service selected and iterates through every resource missing the tr:expiration tag and prompts the user to enter it
 ![enterddmmyyyy](https://user-images.githubusercontent.com/101724244/200764350-29cd1e91-ef9a-46d1-be59-b647892f4a98.PNG)
 
-* The resource gets updated with the tr:expiration tag and checks if any other resource needs updating.If it does,iterates through the program again and if not,exits the program
-[updated](https://user-images.githubusercontent.com/101724244/200764649-763ed3c9-f0a8-45f9-a578-5bf3f6f57a46.PNG)
+* The resource gets updated with the tr:expiration tag and checks if any other resource needs updating.If it does,iterates through the program again and if not,exits     the program
+ 
+![updated](https://user-images.githubusercontent.com/101724244/200764649-763ed3c9-f0a8-45f9-a578-5bf3f6f57a46.PNG)
 
