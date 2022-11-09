@@ -33,3 +33,8 @@ cloud-tool login
 
 ![cloud-tool-login](https://user-images.githubusercontent.com/101724244/200761864-eb2a7f04-7709-43ff-b110-9d59faae26b8.PNG)
 
+* Go to the source file and run the script trexpire.py
+```
+python trexpire.py
+```
+
