@@ -46,9 +46,6 @@ python trexpire.py
 
 * Select the service you want to update the tags for 
 
-![select_service]((https://github.com/NishanthchennagiriKeerthiTR/tr-expiration-tag-scripting/assets/101724244/92fbb1dd-f20d-4e8d-bbe1-595c0397d92c)
-)
-
 * The script checks the service selected and iterates through every resource missing the tr:expiration tag and prompts the user to enter it
 ![enterddmmyyyy](https://user-images.githubusercontent.com/101724244/200764350-29cd1e91-ef9a-46d1-be59-b647892f4a98.PNG)
 
